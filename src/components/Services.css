@@ -1,0 +1,17 @@
+.service-container {
+  min-height: 200px;
+}
+.dark-service {
+  background-color: rgb(15, 28, 32);
+  color: white;
+}
+.cardhover {
+  border-bottom: 3px solid #fff;
+}
+.cardhover:hover {
+  background-color: rgb(49, 226, 202);
+  color: black;
+}
+.title-text {
+  font-weight: 700 !important;
+}
